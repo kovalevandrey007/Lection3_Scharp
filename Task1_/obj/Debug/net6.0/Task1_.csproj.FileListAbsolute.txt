@@ -1,0 +1,15 @@
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\bin\Debug\net6.0\Task1_.exe
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\bin\Debug\net6.0\Task1_.deps.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\bin\Debug\net6.0\Task1_.runtimeconfig.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\bin\Debug\net6.0\Task1_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\bin\Debug\net6.0\Task1_.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\Task1_.csproj.AssemblyReference.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\Task1_.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\Task1_.AssemblyInfoInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\Task1_.AssemblyInfo.cs
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\Task1_.csproj.CoreCompileInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\Task1_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\refint\Task1_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\Task1_.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\Task1_.genruntimeconfig.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task1_\obj\Debug\net6.0\ref\Task1_.dll
