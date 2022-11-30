@@ -1,0 +1,5 @@
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task3_\obj\Debug\net6.0\Task3_.csproj.AssemblyReference.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task3_\obj\Debug\net6.0\Task3_.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task3_\obj\Debug\net6.0\Task3_.AssemblyInfoInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task3_\obj\Debug\net6.0\Task3_.AssemblyInfo.cs
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task3_\obj\Debug\net6.0\Task3_.csproj.CoreCompileInputs.cache

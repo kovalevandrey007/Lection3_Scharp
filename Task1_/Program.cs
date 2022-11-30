@@ -10,8 +10,8 @@
 /*void Metod2(string msg);
 {
     Console.WriteLine(msg);
-}
-Metod2("Text message");
+}*/
+//Metod2("Text message");
 
 void Metod21(string msg, int count);
 {
@@ -39,7 +39,7 @@ int Metod3()
 
 
 //Вид4 /*возвращаем строку*/  /*char /*новый тип данных*/
-string Metod4(int count, string text)
+ /* string Metod4(int count, string text)
 {
     int = 0;
     string result = String.Empty;
@@ -52,5 +52,5 @@ string Metod4(int count, string text)
         return result;
 }
 string res = Metod4(10, "z);
-Console.WriteLine(res);
+Console.WriteLine(res);*/
 

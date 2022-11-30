@@ -1,0 +1,15 @@
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\Task5_.csproj.AssemblyReference.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\Task5_.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\Task5_.AssemblyInfoInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\Task5_.AssemblyInfo.cs
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\Task5_.csproj.CoreCompileInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\bin\Debug\net6.0\Task5_.exe
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\bin\Debug\net6.0\Task5_.deps.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\bin\Debug\net6.0\Task5_.runtimeconfig.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\bin\Debug\net6.0\Task5_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\bin\Debug\net6.0\Task5_.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\Task5_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\refint\Task5_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\Task5_.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\Task5_.genruntimeconfig.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task5_\obj\Debug\net6.0\ref\Task5_.dll

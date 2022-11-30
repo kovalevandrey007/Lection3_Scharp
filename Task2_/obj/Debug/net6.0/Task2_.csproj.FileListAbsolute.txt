@@ -3,3 +3,13 @@ D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj
 D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj\Debug\net6.0\Task2_.AssemblyInfoInputs.cache
 D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj\Debug\net6.0\Task2_.AssemblyInfo.cs
 D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj\Debug\net6.0\Task2_.csproj.CoreCompileInputs.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\bin\Debug\net6.0\Task2_.exe
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\bin\Debug\net6.0\Task2_.deps.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\bin\Debug\net6.0\Task2_.runtimeconfig.json
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\bin\Debug\net6.0\Task2_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\bin\Debug\net6.0\Task2_.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj\Debug\net6.0\Task2_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj\Debug\net6.0\refint\Task2_.dll
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj\Debug\net6.0\Task2_.pdb
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj\Debug\net6.0\Task2_.genruntimeconfig.cache
+D:\GIT repozitory from kovalevandrey007 in GitHub.com\Lection3_Scharp\Task2_\obj\Debug\net6.0\ref\Task2_.dll
